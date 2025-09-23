@@ -11,7 +11,7 @@ streamlit run app.py
 
 ## Movie Recommender Streamlit Display Snapshot
 
-![Movie Recommender Snapshot](Movie Recommender Snapshot.jpg)
+![Movie Recommender Snapshot](Movie_Recommender_Snapshot.jpg)
 
 
 
