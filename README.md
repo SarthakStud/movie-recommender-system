@@ -1,7 +1,11 @@
 # movie-recommender-system
-Movie Recommender System
+A Movie Recommender System based upon Cosine Similarity
 
 
 Dataset Link : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
 
-Heroku Deployment : https://m0vie-recommender-system-26ab6a76aa45.herokuapp.com/
+To view the output on Streamlit, execute the app.py script (use the below command on any terminal from where the file is located):
+```
+streamlit run app.py
+```
+
