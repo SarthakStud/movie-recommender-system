@@ -1,4 +1,4 @@
-# movie-recommender-system
+# Movie-Recommender-System
 A Movie Recommender System based upon Cosine Similarity
 
 
@@ -8,4 +8,10 @@ To view the output on Streamlit, execute the app.py script (use the below comman
 ```
 streamlit run app.py
 ```
+
+## Movie Recommender Streamlit Display Snapshot
+
+![Movie Recommender Snapshot](Movie Recommender Snapshot.png)
+
+
 
